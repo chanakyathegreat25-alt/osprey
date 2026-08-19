@@ -1,6 +1,6 @@
 # Contributing
 
-Pterodactyl is a community project. All contributions to both Panel and Wings are welcome, whether it's new features or bug fixes.
+Osprey is a community project. All contributions to both Panel and Wings are welcome, whether it's new features or bug fixes.
 
 ## Responsible Disclosure
 This is an in-depth project making use of many moving pieces. While we strive to keep everything as secure as possible
